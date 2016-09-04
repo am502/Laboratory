@@ -35,7 +35,6 @@ public class UsersDaoJdbcTemplateBasedImpl implements UsersDao {
 
     public User find(int id) {
         List<User> results = jdbc.query("SELECT * FROM " + tableName + " WHERE id = ?", new Object[] {id}, new RowMapper<User>() {
-            @Override
             public User mapRow(ResultSet rs, int rowNum) throws SQLException{
                 return new User(rs.getInt("id"), rs.getString("name"));
             }
@@ -48,7 +47,15 @@ public class UsersDaoJdbcTemplateBasedImpl implements UsersDao {
     }
 
     public ArrayList<User> findAll() {
+        List<User> results = jdbc.query("SELECT * FROM " + tableName + ";", new Object[] {}, new RowMapper<User>() {
+            public User mapRow(ResultSet rs, int rowNum) throws SQLException{
+                return new User(rs.getInt("id"), rs.getString("name"));
+            }
+        });
+        for(User user : results){
+            System.out.println(user.toString());
+        }
+
         return users;
     }
-
 }

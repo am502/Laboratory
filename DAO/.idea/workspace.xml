@@ -40,9 +40,24 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1003">
-              <caret line="59" column="48" selection-start-line="59" selection-start-column="48" selection-end-line="59" selection-end-column="48" />
+            <state relative-caret-position="561">
+              <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UsersDaoFileBasedImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/inform/UsersDaoFileBasedImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+              <folding>
+                <element signature="e#187#188#0" expanded="false" />
+                <element signature="e#218#219#0" expanded="false" />
+                <element signature="e#326#327#0" expanded="false" />
+                <element signature="e#354#355#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -50,11 +65,13 @@
       <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/inform/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="238">
               <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
               <folding>
-                <element signature="e#318#319#0" expanded="true" />
-                <element signature="e#356#357#0" expanded="true" />
+                <element signature="e#210#211#0" expanded="false" />
+                <element signature="e#237#238#0" expanded="false" />
+                <element signature="e#262#263#0" expanded="false" />
+                <element signature="e#287#288#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -63,9 +80,12 @@
       <file leaf-file-name="UsersDaoJdbcBasedImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/inform/UsersDaoJdbcBasedImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+            <state relative-caret-position="68">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#2811#2812#0" expanded="false" />
+                <element signature="e#2839#2840#0" expanded="false" />
                 <marker date="1472401002621" expanded="true" signature="779:800" ph="DROP TABLE I... " />
                 <marker date="1472401002621" expanded="true" signature="779:813" ph="DROP TABLE I... " />
                 <marker date="1472401002621" expanded="true" signature="823:880" ph="CREATE TABLE... missingValue" />
@@ -78,34 +98,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UsersDaoJdbcTemplateBasedImpl.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="UsersDaoJdbcTemplateBasedImpl.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/inform/UsersDaoJdbcTemplateBasedImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="43" column="46" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
+            <state relative-caret-position="169">
+              <caret line="42" column="39" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1449#1668#0" expanded="true" />
-                <element signature="e#1667#1668#0" expanded="true" />
-                <element signature="e#1839#1840#0" expanded="true" />
-                <element signature="e#1867#1868#0" expanded="true" />
-                <marker date="1472401265030" expanded="true" signature="1011:1031" ph="DROP TABLE m... " />
-                <marker date="1472401265030" expanded="true" signature="1011:1032" ph="DROP TABLE I... " />
-                <marker date="1472401265030" expanded="true" signature="1076:1089" ph="CREATE TABLE... missingValue" />
-                <marker date="1472401265030" expanded="true" signature="1076:1134" ph="CREATE TABLE... missingValueCREATE" />
-                <marker date="1472401265030" expanded="true" signature="1076:1136" ph="CREATE TABLE... missingValue" />
-                <marker date="1472401265030" expanded="true" signature="1226:1299" ph="INSERT INTO users... " />
-                <marker date="1472401265030" expanded="true" signature="1383:1427" ph="SELECT * FRO... missingValue" />
+                <marker date="1472465986928" expanded="true" signature="1011:1031" ph="DROP TABLE m... " />
+                <marker date="1472465986928" expanded="true" signature="1011:1032" ph="DROP TABLE I... " />
+                <marker date="1472465986928" expanded="true" signature="1076:1089" ph="CREATE TABLE... missingValue" />
+                <marker date="1472465986928" expanded="true" signature="1076:1134" ph="CREATE TABLE... missingValueCREATE" />
+                <marker date="1472465986928" expanded="true" signature="1076:1136" ph="CREATE TABLE... missingValue" />
+                <marker date="1472465986928" expanded="true" signature="1226:1299" ph="INSERT INTO users... " />
+                <marker date="1472465986928" expanded="true" signature="1383:1427" ph="SELECT * FRO... missingValue" />
+                <marker date="1472465986928" expanded="true" signature="1860:1874" ph="SELECT * FRO... missingValue" />
+                <marker date="1472465986928" expanded="true" signature="1860:1891" ph="SELECT * FRO... missingValue" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/inform/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+            <state relative-caret-position="544">
+              <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -169,11 +187,11 @@
         <option value="$PROJECT_DIR$/src/main/java/ru/itis/inform/UsersDaoFileBasedImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/itis/inform/UsersService.java" />
         <option value="$PROJECT_DIR$/src/test/java/ru/itis/inform/UsersServiceTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/ru/itis/inform/UsersDaoJdbcBasedImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ru/itis/inform/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ru/itis/inform/UsersDaoJdbcTemplateBasedImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/itis/inform/User.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/itis/inform/UsersDaoJdbcTemplateBasedImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/itis/inform/Main.java" />
       </list>
     </option>
   </component>
@@ -231,8 +249,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -311,7 +329,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -816,6 +834,8 @@
       <workItem from="1472081880875" duration="3183000" />
       <workItem from="1472131737771" duration="10000" />
       <workItem from="1472396177484" duration="5073000" />
+      <workItem from="1472464691764" duration="3069000" />
+      <workItem from="1472806772870" duration="105000" />
     </task>
     <servers />
   </component>
@@ -825,7 +845,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8266000" />
+    <option name="totallyTimeSpent" value="11440000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -833,18 +853,17 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33509833" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -855,6 +874,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -881,6 +901,211 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/inform/UsersDaoFileBasedImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <element signature="e#187#188#0" expanded="false" />
+            <element signature="e#218#219#0" expanded="false" />
+            <element signature="e#326#327#0" expanded="false" />
+            <element signature="e#354#355#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/inform/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+          <folding>
+            <element signature="e#210#211#0" expanded="false" />
+            <element signature="e#237#238#0" expanded="false" />
+            <element signature="e#262#263#0" expanded="false" />
+            <element signature="e#287#288#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/inform/UsersDaoJdbcBasedImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2811#2812#0" expanded="false" />
+            <element signature="e#2839#2840#0" expanded="false" />
+            <marker date="1472401002621" expanded="true" signature="779:800" ph="DROP TABLE I... " />
+            <marker date="1472401002621" expanded="true" signature="779:813" ph="DROP TABLE I... " />
+            <marker date="1472401002621" expanded="true" signature="823:880" ph="CREATE TABLE... missingValue" />
+            <marker date="1472401002621" expanded="true" signature="1520:1532" ph="INSERT INTO missingValue... " />
+            <marker date="1472401002621" expanded="true" signature="1520:1569" ph="INSERT INTO users... " />
+            <marker date="1472401002621" expanded="true" signature="1520:1593" ph="INSERT INTO users... " />
+            <marker date="1472401002621" expanded="true" signature="2223:2254" ph="SELECT * FRO... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/inform/UsersDaoJdbcTemplateBasedImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1472465986928" expanded="true" signature="1011:1031" ph="DROP TABLE m... " />
+            <marker date="1472465986928" expanded="true" signature="1011:1032" ph="DROP TABLE I... " />
+            <marker date="1472465986928" expanded="true" signature="1076:1089" ph="CREATE TABLE... missingValue" />
+            <marker date="1472465986928" expanded="true" signature="1076:1134" ph="CREATE TABLE... missingValueCREATE" />
+            <marker date="1472465986928" expanded="true" signature="1076:1136" ph="CREATE TABLE... missingValue" />
+            <marker date="1472465986928" expanded="true" signature="1226:1299" ph="INSERT INTO users... " />
+            <marker date="1472465986928" expanded="true" signature="1383:1427" ph="SELECT * FRO... missingValue" />
+            <marker date="1472465986928" expanded="true" signature="1860:1874" ph="SELECT * FRO... missingValue" />
+            <marker date="1472465986928" expanded="true" signature="1860:1891" ph="SELECT * FRO... missingValue" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/inform/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/53c9f00c-cad8-4ea4-a45f-39f97ba2b9df/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/inform/UsersService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding>
+            <element signature="e#149#150#0" expanded="false" />
+            <element signature="e#189#190#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/itis/inform/UsersServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="48" selection-start-line="59" selection-start-column="48" selection-end-line="59" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/inform/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+          <folding>
+            <element signature="e#210#211#0" expanded="false" />
+            <element signature="e#237#238#0" expanded="false" />
+            <element signature="e#262#263#0" expanded="false" />
+            <element signature="e#287#288#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/inform/UsersDaoJdbcBasedImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2811#2812#0" expanded="false" />
+            <element signature="e#2839#2840#0" expanded="false" />
+            <marker date="1472401002621" expanded="true" signature="779:800" ph="DROP TABLE I... " />
+            <marker date="1472401002621" expanded="true" signature="779:813" ph="DROP TABLE I... " />
+            <marker date="1472401002621" expanded="true" signature="823:880" ph="CREATE TABLE... missingValue" />
+            <marker date="1472401002621" expanded="true" signature="1520:1532" ph="INSERT INTO missingValue... " />
+            <marker date="1472401002621" expanded="true" signature="1520:1569" ph="INSERT INTO users... " />
+            <marker date="1472401002621" expanded="true" signature="1520:1593" ph="INSERT INTO users... " />
+            <marker date="1472401002621" expanded="true" signature="2223:2254" ph="SELECT * FRO... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/inform/UsersDaoJdbcTemplateBasedImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="43" column="46" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1472465986928" expanded="true" signature="1011:1031" ph="DROP TABLE m... " />
+            <marker date="1472465986928" expanded="true" signature="1011:1032" ph="DROP TABLE I... " />
+            <marker date="1472465986928" expanded="true" signature="1076:1089" ph="CREATE TABLE... missingValue" />
+            <marker date="1472465986928" expanded="true" signature="1076:1134" ph="CREATE TABLE... missingValueCREATE" />
+            <marker date="1472465986928" expanded="true" signature="1076:1136" ph="CREATE TABLE... missingValue" />
+            <marker date="1472465986928" expanded="true" signature="1226:1299" ph="INSERT INTO users... " />
+            <marker date="1472465986928" expanded="true" signature="1383:1427" ph="SELECT * FRO... missingValue" />
+            <marker date="1472465986928" expanded="true" signature="1860:1874" ph="SELECT * FRO... missingValue" />
+            <marker date="1472465986928" expanded="true" signature="1860:1891" ph="SELECT * FRO... missingValue" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/inform/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/53c9f00c-cad8-4ea4-a45f-39f97ba2b9df/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/inform/UsersService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding>
+            <element signature="e#149#150#0" expanded="false" />
+            <element signature="e#189#190#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/itis/inform/UsersServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
           <folding />
@@ -892,8 +1117,10 @@
         <state relative-caret-position="119">
           <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
           <folding>
-            <element signature="e#318#319#0" expanded="true" />
-            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="false" />
+            <element signature="e#237#238#0" expanded="false" />
+            <element signature="e#262#263#0" expanded="false" />
+            <element signature="e#287#288#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -902,7 +1129,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -911,8 +1137,10 @@
         <state relative-caret-position="153">
           <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
           <folding>
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="false" />
+            <element signature="e#218#219#0" expanded="false" />
+            <element signature="e#326#327#0" expanded="false" />
+            <element signature="e#354#355#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -922,6 +1150,9 @@
         <state relative-caret-position="510">
           <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
           <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2811#2812#0" expanded="false" />
+            <element signature="e#2839#2840#0" expanded="false" />
             <marker date="1472401002621" expanded="true" signature="779:800" ph="DROP TABLE I... " />
             <marker date="1472401002621" expanded="true" signature="779:813" ph="DROP TABLE I... " />
             <marker date="1472401002621" expanded="true" signature="823:880" ph="CREATE TABLE... missingValue" />
@@ -983,8 +1214,10 @@
         <state relative-caret-position="119">
           <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
           <folding>
-            <element signature="e#318#319#0" expanded="true" />
-            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="false" />
+            <element signature="e#237#238#0" expanded="false" />
+            <element signature="e#262#263#0" expanded="false" />
+            <element signature="e#287#288#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -993,7 +1226,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1002,8 +1234,10 @@
         <state relative-caret-position="153">
           <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
           <folding>
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="false" />
+            <element signature="e#218#219#0" expanded="false" />
+            <element signature="e#326#327#0" expanded="false" />
+            <element signature="e#354#355#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1013,6 +1247,9 @@
         <state relative-caret-position="493">
           <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
           <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2811#2812#0" expanded="false" />
+            <element signature="e#2839#2840#0" expanded="false" />
             <marker date="1472401002621" expanded="true" signature="779:800" ph="DROP TABLE I... " />
             <marker date="1472401002621" expanded="true" signature="779:813" ph="DROP TABLE I... " />
             <marker date="1472401002621" expanded="true" signature="823:880" ph="CREATE TABLE... missingValue" />
@@ -1072,7 +1309,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1097,6 +1333,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/53c9f00c-cad8-4ea4-a45f-39f97ba2b9df/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1105,30 +1349,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/inform/UsersDaoFileBasedImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
-          <caret line="59" column="48" selection-start-line="59" selection-start-column="48" selection-end-line="59" selection-end-column="48" />
-          <folding />
+        <state relative-caret-position="153">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <element signature="e#187#188#0" expanded="false" />
+            <element signature="e#218#219#0" expanded="false" />
+            <element signature="e#326#327#0" expanded="false" />
+            <element signature="e#354#355#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/inform/UsersDaoFileBasedImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/inform/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        <state relative-caret-position="238">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
           <folding>
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="false" />
+            <element signature="e#237#238#0" expanded="false" />
+            <element signature="e#262#263#0" expanded="false" />
+            <element signature="e#287#288#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/inform/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/inform/UsersDaoJdbcBasedImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2811#2812#0" expanded="false" />
+            <element signature="e#2839#2840#0" expanded="false" />
             <marker date="1472401002621" expanded="true" signature="779:800" ph="DROP TABLE I... " />
             <marker date="1472401002621" expanded="true" signature="779:813" ph="DROP TABLE I... " />
             <marker date="1472401002621" expanded="true" signature="823:880" ph="CREATE TABLE... missingValue" />
@@ -1142,41 +1404,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/inform/UsersDaoJdbcTemplateBasedImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="43" column="46" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
+        <state relative-caret-position="169">
+          <caret line="42" column="39" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1449#1668#0" expanded="true" />
-            <element signature="e#1667#1668#0" expanded="true" />
-            <element signature="e#1839#1840#0" expanded="true" />
-            <element signature="e#1867#1868#0" expanded="true" />
-            <marker date="1472401265030" expanded="true" signature="1011:1031" ph="DROP TABLE m... " />
-            <marker date="1472401265030" expanded="true" signature="1011:1032" ph="DROP TABLE I... " />
-            <marker date="1472401265030" expanded="true" signature="1076:1089" ph="CREATE TABLE... missingValue" />
-            <marker date="1472401265030" expanded="true" signature="1076:1134" ph="CREATE TABLE... missingValueCREATE" />
-            <marker date="1472401265030" expanded="true" signature="1076:1136" ph="CREATE TABLE... missingValue" />
-            <marker date="1472401265030" expanded="true" signature="1226:1299" ph="INSERT INTO users... " />
-            <marker date="1472401265030" expanded="true" signature="1383:1427" ph="SELECT * FRO... missingValue" />
+            <marker date="1472465986928" expanded="true" signature="1011:1031" ph="DROP TABLE m... " />
+            <marker date="1472465986928" expanded="true" signature="1011:1032" ph="DROP TABLE I... " />
+            <marker date="1472465986928" expanded="true" signature="1076:1089" ph="CREATE TABLE... missingValue" />
+            <marker date="1472465986928" expanded="true" signature="1076:1134" ph="CREATE TABLE... missingValueCREATE" />
+            <marker date="1472465986928" expanded="true" signature="1076:1136" ph="CREATE TABLE... missingValue" />
+            <marker date="1472465986928" expanded="true" signature="1226:1299" ph="INSERT INTO users... " />
+            <marker date="1472465986928" expanded="true" signature="1383:1427" ph="SELECT * FRO... missingValue" />
+            <marker date="1472465986928" expanded="true" signature="1860:1874" ph="SELECT * FRO... missingValue" />
+            <marker date="1472465986928" expanded="true" signature="1860:1891" ph="SELECT * FRO... missingValue" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/inform/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
-          <folding>
-            <element signature="e#318#319#0" expanded="true" />
-            <element signature="e#356#357#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/itis/inform/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="18" column="60" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
-          <folding />
         </state>
       </provider>
     </entry>

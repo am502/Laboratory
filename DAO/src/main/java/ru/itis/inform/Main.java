@@ -25,5 +25,9 @@ public class Main {
         dbtemp.find(0);
         dbtemp.find(1);
         dbtemp.find(2);
+
+        System.out.println();
+
+        dbtemp.findAll();
     }
 }
