@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="sword" class="ru.itis.inform.impl.weapon.Sword"/>
+    <bean id="cuirass" class="ru.itis.inform.impl.armor.Cuirass"/>
+    <bean id="zirael" class="ru.itis.inform.impl.weapon.Zirael"/>
+
+    <bean id="geralt" class="ru.itis.inform.impl.Geralt">
+        <constructor-arg ref="zirael"/>
+        <constructor-arg ref="cuirass"/>
+    </bean>
+</beans>
